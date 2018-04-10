@@ -1,0 +1,720 @@
+{  
+   "current_page":1,
+   "data":[  
+      {  
+         "order_no":147089,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"accepted",
+            "label":"Pesanan diterima dokter"
+         },
+         "order_date":"2018-01-05 11:34:46",
+         "visit_date":"2018-01-08 15:00:00",
+         "visit_date_to":"2018-01-08 17:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147088,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed972ae2c600146ff6a2",
+            "name":"aselole",
+            "age":20,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"on_progress",
+            "label":"Sedang di proses"
+         },
+         "order_date":"2018-01-05 11:06:14",
+         "visit_date":"2018-01-08 13:00:00",
+         "visit_date_to":"2018-01-08 15:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147087,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed972ae2c600146ff6a2",
+            "name":"aselole",
+            "age":20,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Kanker Serviks HPV 4 strain (Gardasil)",
+            "sku":"00029142",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"done",
+            "label":"Selesai"
+         },
+         "order_date":"2018-01-05 10:28:13",
+         "visit_date":"2018-01-08 09:00:00",
+         "visit_date_to":"2018-01-08 13:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147082,
+         "doctor":{  
+            "name":"dr. Agnes Gratia"
+         },
+         "patient":{  
+            "id":"59cb22663a14d200c6573548",
+            "name":"jean rendy",
+            "age":27,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"Jl. H. Amsar",
+               "lat":"-6.235515057979942",
+               "lng":"106.76913488656282",
+               "location":[  
+                  "106.76913488656282",
+                  "-6.235515057979942"
+               ],
+               "receiver":"jean rendy",
+               "phone":"085842254247",
+               "id":"",
+               "postal_code":"12230"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A (Havrix Adults )",
+            "sku":"00029397",
+            "image":false,
+            "batch_no":"2016207127",
+            "expired":""
+         },
+         "status":{  
+            "code":"waiting_confirmation",
+            "label":"Menunggu konfirmasi dokter"
+         },
+         "order_date":"2017-12-21 17:09:38",
+         "visit_date":"2017-12-10 02:01:00",
+         "visit_date_to":"2017-12-10 15:00:00",
+         "injection":1,
+         "note":"catatan saja"
+      },
+      {  
+         "order_no":147081,
+         "doctor":{  
+            "name":"dr. Agnes Gratia"
+         },
+         "patient":{  
+            "id":"59cb22663a14d200c6573548",
+            "name":"jean rendy",
+            "age":27,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"Jl. H. Amsar",
+               "lat":"-6.235515057979942",
+               "lng":"106.76913488656282",
+               "location":[  
+                  "106.76913488656282",
+                  "-6.235515057979942"
+               ],
+               "receiver":"jean rendy",
+               "phone":"085842254247",
+               "id":"",
+               "postal_code":"12230"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A (Havrix Adults )",
+            "sku":"00029397",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"waiting_payment",
+            "label":"Menunggu Pembayaran Order"
+         },
+         "order_date":"2017-12-21 17:07:13",
+         "visit_date":"2017-12-10 13:00:00",
+         "visit_date_to":"2017-12-10 15:00:00",
+         "injection":1,
+         "note":"catatan saja"
+      },
+      {  
+         "order_no":147080,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"waiting_payment",
+            "label":"Menunggu Pembayaran Order"
+         },
+         "order_date":"2017-12-21 17:03:49",
+         "visit_date":"2017-12-25 13:00:00",
+         "visit_date_to":"2017-12-25 15:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147079,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"waiting_payment",
+            "label":"Menunggu Pembayaran Order"
+         },
+         "order_date":"2017-12-21 16:57:37",
+         "visit_date":"2017-12-25 09:00:00",
+         "visit_date_to":"2017-12-25 13:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147078,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"waiting_payment",
+            "label":"Menunggu Pembayaran Order"
+         },
+         "order_date":"2017-12-21 16:52:12",
+         "visit_date":"2017-12-24 15:00:00",
+         "visit_date_to":"2017-12-24 17:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147077,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"done",
+            "label":"Selesai"
+         },
+         "order_date":"2017-12-21 16:12:49",
+         "visit_date":"2017-12-24 13:00:00",
+         "visit_date_to":"2017-12-24 15:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147076,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"waiting_confirmation",
+            "label":"Menunggu konfirmasi dokter"
+         },
+         "order_date":"2017-12-21 15:56:13",
+         "visit_date":"2017-12-24 09:00:00",
+         "visit_date_to":"2017-12-24 13:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147069,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"waiting_payment",
+            "label":"Menunggu Pembayaran Order"
+         },
+         "order_date":"2017-12-18 11:26:43",
+         "visit_date":"2017-12-21 09:00:00",
+         "visit_date_to":"2017-12-21 13:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147066,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed972ae2c600146ff6a2",
+            "name":"aselole",
+            "age":20,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"rejected",
+            "label":"Pesanan ditolak dokter"
+         },
+         "order_date":"2017-12-08 15:43:21",
+         "visit_date":"2017-12-12 15:00:00",
+         "visit_date_to":"2017-12-12 17:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147065,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed972ae2c600146ff6a2",
+            "name":"aselole",
+            "age":20,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"done",
+            "label":"Selesai"
+         },
+         "order_date":"2017-12-08 15:12:59",
+         "visit_date":"2017-12-12 13:00:00",
+         "visit_date_to":"2017-12-12 15:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147064,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"done",
+            "label":"Selesai"
+         },
+         "order_date":"2017-12-08 14:43:19",
+         "visit_date":"2017-12-11 13:00:00",
+         "visit_date_to":"2017-12-11 15:00:00",
+         "injection":1,
+         "note":""
+      },
+      {  
+         "order_no":147063,
+         "doctor":{  
+            "name":"dr. Agnes, MPH"
+         },
+         "patient":{  
+            "id":"5a29ed982ae2c600146ff6a6",
+            "name":"angga2",
+            "age":25,
+            "gender":"M",
+            "address":{  
+               "province_id":"31",
+               "province_name":"DKI JAKARTA",
+               "city_id":"3171",
+               "city_name":"KOTA JAKARTA SELATAN",
+               "district_id":"3171050",
+               "district_name":"KEBAYORAN LAMA",
+               "address":"BUNKER ATOMA",
+               "lat":"-6.309016230640547",
+               "lng":"106.82050220668314",
+               "location":[  
+                  "106.82050220668314",
+                  "-6.309016230640547"
+               ],
+               "receiver":"angga2",
+               "phone":"089128938913",
+               "id":"",
+               "postal_code":"12270"
+            }
+         },
+         "product":{  
+            "name":"Paket Vaksinasi Hepatitis A dan Hepatitis B Dewasa ( Twinrix)",
+            "sku":"00029144",
+            "image":false,
+            "batch_no":"",
+            "expired":""
+         },
+         "status":{  
+            "code":"done",
+            "label":"Selesai"
+         },
+         "order_date":"2017-12-08 13:24:07",
+         "visit_date":"2017-12-12 09:00:00",
+         "visit_date_to":"2017-12-12 13:00:00",
+         "injection":1,
+         "note":""
+      }
+   ],
+   "first_page_url":"http:\/\/localhost\/orders?page=1",
+   "from":1,
+   "last_page":2,
+   "last_page_url":"http:\/\/localhost\/orders?page=2",
+   "next_page_url":"http:\/\/localhost\/orders?page=2",
+   "path":"http:\/\/localhost\/orders",
+   "per_page":15,
+   "prev_page_url":null,
+   "to":15,
+   "total":24
+}
